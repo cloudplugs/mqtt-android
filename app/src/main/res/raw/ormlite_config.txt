@@ -1,0 +1,20 @@
+#
+# generated on 2016/11/24 06:33:46
+#
+# --table-start--
+dataClass=org.cloudplugs.mqttsample.model.MessageModel
+tableName=messages
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=date
+# --field-end--
+# --field-start--
+fieldName=payload
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
